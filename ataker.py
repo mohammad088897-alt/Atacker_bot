@@ -801,4 +801,3 @@ allowed_updates=[
         "message_reaction",
         "message_reaction_count"
     ]
-)
