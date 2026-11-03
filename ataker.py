@@ -8,7 +8,7 @@ import telebot
 from telebot import types
 
 # ===================== BOT CONFIGURATION =====================
-TOKEN = "9045687152:AAHEMlT94SNLD8GuUNfzKK3c8rz5w_Ss2FM"
+TOKEN = "9289891286:AAGFiIKdz1eEAGPu-qOYDq4-bO403eTAK1Y"
 OWNER_ID = 7684105339  # Your Telegram ID
 
 bot = telebot.TeleBot(TOKEN)
